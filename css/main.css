@@ -1,0 +1,30 @@
+body{
+	position: relative;
+	margin: 280px 24px;
+	color: white;
+	background-color: black
+}
+
+.container{
+	position: absolute;
+	margin: 0px 24px;
+	width: 85%;
+	height: 340px;
+	left: 200px;
+	bottom: 0px;
+	text-align: right;
+}
+
+header{
+	width: 200px;
+	height: 340px;
+	text-align: center;
+}
+
+header img{
+	border-radius: 40px;
+}
+
+footer{
+	position: relative;
+}
