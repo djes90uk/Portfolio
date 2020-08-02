@@ -25,7 +25,8 @@ header img{
 }
 
 main{
-	
+	overflow: auto;
+	height: 305px;
 }
 
 footer{
