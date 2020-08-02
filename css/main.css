@@ -8,9 +8,8 @@ body{
 .container{
 	position: absolute;
 	margin: 0px 24px;
-	width: 85%;
 	height: 340px;
-	left: 200px;
+	left: 75%;
 	bottom: 0px;
 	text-align: right;
 }
@@ -23,6 +22,10 @@ header{
 
 header img{
 	border-radius: 40px;
+}
+
+main{
+	
 }
 
 footer{
