@@ -6,15 +6,6 @@ body{
 	background-color: black
 }
 
-.container{
-	position: absolute;
-	margin: 0px 24px;
-	height: 340px;
-	left: 67%;
-	bottom: 0px;
-	text-align: right;
-}
-
 header{
 	width: 200px;
 	height: 340px;
@@ -25,11 +16,21 @@ header img{
 	border-radius: 40px;
 }
 
+.container{
+	position: absolute;
+	margin: 0px 24px;
+	height: 25%;
+	left: 67%;
+	bottom: 80%;
+	text-align: right;
+}
+
 main{
 	overflow: auto;
 	height: 305px;
+	width: auto;
 }
 
 footer{
-	width: 600px;
+	width: auto;
 }
